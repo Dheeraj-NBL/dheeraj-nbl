@@ -1,114 +1,127 @@
-[![Header](https://camo.githubusercontent.com/d89f5c244fd24a84e3f82c6e37ee8e1aefdec8e7f6a2de6f7871f4070000a01b…
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Dheeraj Mathur
 
-
-
-
-
-
-
-<h1 align="center">Hey 👋, I'm Dheeraj Mathur</h1>
-<h3 align="center">🚀 Full Stack Developer | Problem Solver | ML Enthusiast from India 🇮🇳</h3>
-
-
+<h3 align="center">
+🚀 Full Stack Developer • MERN Stack Enthusiast • Problem Solver • ML Explorer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C8F… alt="Typing SVG">
-</p>
-
-
-
----
-
-
-
-<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.g… width="420" alt="Coding GIF">
-
-
-
-### 🧠 Current Focus
-- 🔍 Building an **Accident Severity Prediction ML Model**
-- 🌱 Exploring deeper into **React.js & Node.js**
-- ⚙️ Creating **MERN Stack** projects with scalable architecture
-
-
-
-### 📬 Reach Me At
-- 📧 Email: [dheeraj.mathur138@gmail.com](mailto:dheeraj.mathur138@gmail.com)
-- 📄 [Resume](https://github.com/dheerajmat/RESUME-DHEERAJ-MATHUR/blob/main/Dheeraj%20Resume%20(3)%20(1).pdf)
-
-
-
----
-
-
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/dheeraj-mathur-072964271" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  <a href="https://github.com/dheerajmat">
+    <img src="https://komarev.com/ghpvc/?username=dheerajmat&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
-  <a href="https://instagram.com/dheerajmat__" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
+  <a href="https://github.com/dheerajmat?tab=followers">
+    <img src="https://img.shields.io/github/followers/dheerajmat?label=Followers&style=social" alt="followers" />
   </a>
 </p>
 
+---
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+## 👨‍💻 About Me
+
+- 💻 Passionate **Full Stack Developer** from India 🇮🇳
+- 🚀 Building scalable and user-friendly web applications using the **MERN Stack**
+- 🧠 Currently working on an **Accident Severity Prediction ML Model**
+- 🌱 Exploring advanced concepts in **React.js**, **Node.js**, and backend architecture
+- ⚡ Strong interest in **Machine Learning**, **APIs**, and clean UI/UX design
+- 🎯 I enjoy solving real-world problems through technology
+- 📚 Believer of **“Learning by Building”**
 
 ---
 
+## 🛠️ Tech Stack
 
+### 🚀 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,figma" />
+</p>
 
-### 🛠️ Languages & Tools
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
 
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,photoshop,illustrator" />
+</p>
 
+### 📚 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,python" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🔹 Accident Severity Prediction System
+> Machine Learning project that predicts accident severity using historical accident datasets and intelligent data analysis.
+
+### 🔹 MERN Stack Applications
+> Built scalable admin panels, forms, dashboards, and API-integrated applications using React.js and Node.js.
+
+### 🔹 Data Migration Platform
+> Working on enterprise-level migration tools for smooth HRMS and payroll data transformation.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dheerajmat&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajmat&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajmat&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dheerajmat&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40" height="40" />
+  <a href="https://linkedin.com/in/dheeraj-mathur-072964271" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/dheerajmat__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:dheeraj.mathur138@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-
-
 
 ---
 
+## 📄 Resume
 
+📌 [View My Resume](https://github.com/dheerajmat/RESUME-DHEERAJ-MATHUR/blob/main/Dheeraj%20Resume%20(3)%20(1).pdf)
 
-### 📈 GitHub Stats
+---
 
+## ✨ Quote I Follow
 
+> *“Code. Learn. Build. Improve. Repeat.”* 🚀
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dheerajmat&show_icons=true&theme=react&hide_bor… width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajmat&theme=react&hide_border=true" width="49%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Machine+Learning+Explorer;Always+Learning+New+Things" />
 </p>
-
-
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajmat&layout=compact&theme=reac… width="50%" />
+  ⭐ From <a href="https://github.com/dheerajmat">Dheeraj Mathur</a>
 </p>
-
-
-
----
-
-
-
-### 🧩 Fun Fact
-- I believe in **“Learning by Doing”** — if I get stuck, I build something new with it 😄
-
-
-
----
-
